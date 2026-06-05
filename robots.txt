@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://guilhermevelasco.github.io/site-turma-cfaq-mom/sitemap.xml

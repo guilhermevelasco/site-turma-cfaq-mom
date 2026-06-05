@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Turma CFAQ-MOM 2026 - CIAGA",
+    "description": "",
+    "home_page_url": "https://guilhermevelasco.github.io/site-turma-cfaq-mom",
+    "feed_url": "https://guilhermevelasco.github.io/site-turma-cfaq-mom/feed.json",
+    "user_comment": "",
+    "icon": "https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/website/logo.png",
+    "author": {
+        "name": "MOM"
+    },
+    "items": [
+        {
+            "id": "https://guilhermevelasco.github.io/site-turma-cfaq-mom/oceano-de-oportunidades.html",
+            "url": "https://guilhermevelasco.github.io/site-turma-cfaq-mom/oceano-de-oportunidades.html",
+            "title": "Oceano de Oportunidades",
+            "summary": "Turma de Moços de Máquinas, prontos para praticagem na sua empresa. Conheça a Turma CFAQ-MOM 2026.1 - CIAGA Excelência, dedicação e união nessa jornada.",
+            "content_html": "\n    <h3 id=\"turma-de-mocos-de-maquinas-prontos-lessbrgreaterpara-praticagem-na-sua-empresa\" class=\"align-center\">\n      Turma de Moços de Máquinas, prontos <br>para praticagem na sua empresa.\n    </h3>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/foto1-2.png\" height=\"2016\" width=\"4032\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-xs.png 640w ,https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-sm.png 768w ,https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-md.png 1024w ,https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-lg.png 1366w ,https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-xl.png 1600w ,https://guilhermevelasco.github.io/site-turma-cfaq-mom/media/posts/1/responsive/foto1-2-2xl.png 1920w\">\n      \n    </figure>\n\n    <h2 id=\"conheca-a-turma-lessbrgreaterlessbrgreatercfaq-mom-20261-ciagalessbrgreaterlessbrgreaterexcelencia-dedicacao-e-lessbrgreateruniao-nessa-jornada\" class=\"align-center\">\n      Conheça a Turma <br><br>CFAQ-MOM 2026.1 - CIAGA<br><br>Excelência, dedicação e <br>união nessa jornada.\n    </h2>",
+            "author": {
+                "name": "MOM"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-05T18:40:30-03:00",
+            "date_modified": "2026-06-05T18:44:09-03:00"
+        }
+    ]
+}
